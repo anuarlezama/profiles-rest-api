@@ -1,0 +1,12 @@
+HTTP/1.1 400 Bad Request
+Date: Tue, 22 Aug 2023 16:37:20 GMT
+Server: WSGIServer/0.2 CPython/3.9.6
+Content-Type: application/json
+Vary: Accept, Cookie
+Allow: GET, POST, HEAD, OPTIONS
+X-Frame-Options: DENY
+Content-Length: 36
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+
